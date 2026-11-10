@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Catppuccin Macchiato base — Compose overrides everything at runtime -->
+    <style name="Theme.CycleTracker" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">#24273A</item>
+        <item name="android:statusBarColor">#1E2030</item>
+        <item name="android:navigationBarColor">#1E2030</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
